@@ -22,12 +22,22 @@
       "label": "Tiktok:",
       "display": "Alex.trans.premium",
       "url": "https://www.tiktok.com/@alextranspremium"
+    },
+    "youtube": {
+      "label": "Youtube:",
+      "display": "Alex Premium",
+      "url": "https://www.youtube.com/@daikaalex"
+    },
+    "telegram": {
+      "label": "Telegram:",
+      "display": "Alex Premium",
+      "url": "https://t.me/+h8cme1YVZ-5hYzk1"
     }
   },
   
   "ads": {
     "window_title": "AlexTransVideo",
-    "promo_text": "Video đang được tải về, bạn có muốn Dịch và Lồng tiếng cho các video đó không?",
+    "promo_text": "Video đang được tải về, bạn có muốn Dịch và Lồng tiếng cho các video đó không ?",
     "link_intro": "Xem thêm về phần mềm AlexTransVideo tại",
     "link_separator": "hoặc",
     "youtube_fallback_url": "https://www.youtube.com/watch?v=xTzgo7a3Q94",
@@ -44,10 +54,7 @@
   
   "app_info": {
     "name": "AlexDownloadVideo",
-    "logo_url": ""
+    "logo_url": "",
+    "slogan": "Sản phẩm thuộc hệ sinh thái phần mềm: AlexTransVideo, AlexDownloadVideo, AlexAIVideo..."
   }
 }
-
-
-
-
