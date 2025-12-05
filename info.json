@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-12-05",
+  
+  "social_links": {
+    "zalo": {
+      "label": "Zalo:",
+      "display": "Nhóm Zalo",
+      "url": "https://zalo.me/g/qkxsnc205"
+    },
+    "facebook": {
+      "label": "Facebook:",
+      "display": "Alex Nguyen",
+      "url": "https://www.facebook.com/alexakakakakaka"
+    },
+    "website": {
+      "label": "Website:",
+      "display": "www.shoptoolvn.com",
+      "url": "https://shoptoolvn.com/"
+    },
+    "tiktok": {
+      "label": "Tiktok:",
+      "display": "Alex.trans.premium",
+      "url": "https://www.tiktok.com/@alextranspremium"
+    }
+  },
+  
+  "ads": {
+    "window_title": "AlexTransVideo",
+    "promo_text": "Video đang được tải về, bạn có muốn Dịch và Lồng tiếng...",
+    "link_intro": "Xem thêm về phần mềm AlexTransVideo tại",
+    "link_separator": "hoặc",
+    "youtube_fallback_url": "https://www.youtube.com/...",
+    
+    "website_link": { "display": "www.shoptoolvn.com", "url": "..." },
+    "zalo_link": { "display": "Zalo Alex", "url": "..." }
+  },
+  
+  "app_info": {
+    "name": "AlexDownloadVideo",
+    "logo_url": ""
+  }
+}
