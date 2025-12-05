@@ -27,7 +27,7 @@
   
   "ads": {
     "window_title": "AlexTransVideo",
-    "promo_text": "Video đang được tải về, bạn có muốn Dịch và Lồng tiếng cho các video đó không ?",
+    "promo_text": "Video đang được tải về, bạn có muốn Dịch và Lồng tiếng cho các video đó không?",
     "link_intro": "Xem thêm về phần mềm AlexTransVideo tại",
     "link_separator": "hoặc",
     "youtube_fallback_url": "https://www.youtube.com/watch?v=xTzgo7a3Q94",
@@ -47,3 +47,4 @@
     "logo_url": ""
   }
 }
+
